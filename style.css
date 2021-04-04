@@ -1,0 +1,60 @@
+body{
+  color: #2f5d62;
+   font-family: 'Lora', serif;
+    background: #91c788;
+
+}
+
+h1, h2, h3, h4{
+	color: #feffde;
+     font-family: 'Roboto', sans-serif;      
+      font-weight:100;
+       letter-spacing: 10;
+        text-transform:uppercase;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	 color: black;
+  }
+
+a:hover {
+        color: #464f41;
+        }
+
+div {
+	background: rgb(220, 220, 220);
+	 border: 2px solid black;
+	  margin:  10px ;
+	}
+
+	#header{
+     background: rgb(220, 220, 220);
+	 border: 2px solid black;
+	 margin:  10px ;
+}
+
+#equestrian {
+
+	background: rgb(220, 220, 220);
+	 border: 2px solid black;
+	  margin:  10px ;
+}
+
+#music {
+	background: rgb(220, 220, 220);
+	 border: 2px solid black;
+	  margin:  10px ;
+}
+
+#football {
+	background: rgb(220, 220, 220);
+	 border: 2px solid black;
+	  margin:  10px ;
+}
+
+#follow {
+	background: rgb(220, 220, 220);
+	 border: 2px solid black;
+	  margin:  10px ;
+}
